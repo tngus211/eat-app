@@ -1,6 +1,6 @@
 {
     "rewrites" : [
-        {"sorce": "/(.*)",
+        {"source": "/(.*)",
         "destination" : "/index.html" }
     ]
 }
