@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/header.tsx","./src/main.tsx","./src/mainpage.tsx","./src/menucard.tsx","./src/menulist.tsx","./src/menus.ts","./src/order.tsx","./src/types.ts","./src/useweather.ts"],"errors":true,"version":"6.0.3"}
